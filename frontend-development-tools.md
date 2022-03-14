@@ -1,11 +1,11 @@
 # Frontend Development Tools
 
+
 ## json-server
 
 Simple fake REST API
 
 - [Docs](https://github.com/typicode/json-server)
-
 
 ### Examples
 - [Simple usage](https://github.com/typicode/json-server#getting-started): Create a `db.json` file, and run `json-server --watch db.json`
