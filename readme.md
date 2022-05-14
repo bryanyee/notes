@@ -1,5 +1,13 @@
 # Technologies Overview
 
+## Styleguides
+- JavaScript: [AirBnb Style Guide - JavaScript](https://github.com/airbnb/javascript)
+- React: [AirBnb Style Guide - React](https://github.com/airbnb/javascript/tree/master/react)
+- Ruby: [RuboCop Ruby Style Guide](https://github.com/rubocop/ruby-style-guide)
+- Rails: [RuboCop Rails Style Guide](https://github.com/rubocop/rails-style-guide)
+- APIs: [API Design Guide by Ronald Blüthl](https://r.bluethl.net/how-to-design-better-apis)
+
+
 ## Frontend
 
 - React
