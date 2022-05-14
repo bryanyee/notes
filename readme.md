@@ -11,11 +11,18 @@
 ## Frontend
 
 - React
+  - react
+  - react-dom
   - react-router
-  - react-query
 - React Testing
   - [react-testing-library](react-testing.md#react-testing-library): React DOM testing utilities
   - [mock-service-worker](react-testing.md#mock-service-worker): API mocking library
+- Data fetching
+  - react-query
+  - apollo & react-apollo
+- React Frameworks
+  - nextjs
+  - create-react-app
 - Frontend Development Tools  
   - [json-server](frontend-development-tools.md#json-server): Simple fake REST API
 - Optimization
@@ -28,3 +35,4 @@
 - Ruby on Rails
 - Rails Testing
   - [rails-rspec](rails-testing.md#rails-rspec): Testing framework for requests, controllers, model, views, etc.
+  - [capybara](rails-testing.md#capybara): Framework for simulating user interactions in a browser
