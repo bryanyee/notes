@@ -1,5 +1,10 @@
 # Technologies Overview
 
+
+## Resources
+- [Patterns.dev](https://www.patterns.dev/): Modern Web App Design Patterns
+
+
 ## Styleguides
 - JavaScript: [AirBnb Style Guide - JavaScript](https://github.com/airbnb/javascript)
 - React: [AirBnb Style Guide - React](https://github.com/airbnb/javascript/tree/master/react)
