@@ -41,3 +41,13 @@
 - Rails Testing
   - [rails-rspec](rails-testing.md#rails-rspec): Testing framework for requests, controllers, model, views, etc.
   - [capybara](rails-testing.md#capybara): Framework for simulating user interactions in a browser
+
+## Todo
+
+- Frontend - jQuery, Bootstrap, coffeescript
+- Backend - APIs, models, controllers, routing, middleware, caching, jobs, scheduled tasks
+- Monitoring & Tooling - Rollbar (error monitoring); Heap, Mixpanel, Amplitude (user events and funnels); Logentries (server logs); New Relic (performance & observability)
+- GraphQL
+- SQL
+- Mobile - React Native, Cordova
+- Deployment - AWS, Heroku, Vercel
